@@ -1,8 +1,8 @@
-Author: Laura Lopez 
-Title: A paper!
+Author: Laura Lopez, John Smith 
+Title: A paper with John.
 
 Abstract:
 Introduction:
-Data: we don't have any data! how sad.... 
+Data: we don't have any data. But John does.... 
 Conclusion:
 
