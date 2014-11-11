@@ -1,5 +1,5 @@
-Author: 
-Title:
+Author: Laura Lopez 
+Title: A paper!
 
 Abstract:
 Introduction:
