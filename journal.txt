@@ -1,8 +1,8 @@
-Author: Laura Lopez 
-Title: A paper!
+Author: Laura Lopez, Angus Buckling 
+Title: A paper about Local Adaptation
 
 Abstract:
 Introduction:
-Data: we don't have any data! how sad.... 
-Conclusion:
+Data: Tons of data.  
+Conclusion:Excellent Excellent, brilliant, brilliant. 
 
