@@ -1,7 +1,7 @@
-Authors: Laura Lopez, Angus Buckling
+Authors: Laura Lopez, Angus Buckling, Rebecca Haines
 Title: A paper about Local Adaptation
 
-Abstract: very short version of the paper.
+Abstract: Rebecca will make this bit awesome later
 Introduction:
 Data: Tons of data.  
 Conclusion:Excellent Excellent, brilliant, brilliant. 
